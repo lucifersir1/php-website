@@ -1,6 +1,6 @@
 <?php
 $servername = "<rds_endpoint>";
 $username = "admin";
-$password = "YourStrongPassword123";
+$password = "StrongPassord!";
 $dbname = "ecommerce";
 ?>
